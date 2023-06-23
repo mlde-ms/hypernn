@@ -1,4 +1,4 @@
-# End-to-End Neural Network Training for Hyperbox-Based Classification
+# HyperNN: End-to-End Neural Network Training for Hyperbox-Based Classification
 
 ![hypernn](hypernn.png)
 
